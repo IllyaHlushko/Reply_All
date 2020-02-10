@@ -1,0 +1,32 @@
+<linker>
+<assembly fullname="Assembly-CSharp">
+<type fullname="scrAdSpawner" preserve="all"/>
+<type fullname="scrAdWindow" preserve="all"/>
+<type fullname="scrBigMail" preserve="all"/>
+<type fullname="scrButtonSpawn" preserve="all"/>
+<type fullname="scrCloseButton" preserve="all"/>
+<type fullname="scrDeleteButton" preserve="all"/>
+<type fullname="scrGameController" preserve="all"/>
+<type fullname="scrInLook" preserve="all"/>
+<type fullname="scrInLookIcon" preserve="all"/>
+<type fullname="scrListFile" preserve="all"/>
+<type fullname="scrLogin" preserve="all"/>
+<type fullname="scrMailSpawner" preserve="all"/>
+<type fullname="scrOffButton" preserve="all"/>
+<type fullname="scrPenaltyBar" preserve="all"/>
+<type fullname="scrRAMIcon" preserve="all"/>
+<type fullname="scrRAMWindow" preserve="all"/>
+<type fullname="scrScreenTest" preserve="all"/>
+<type fullname="scrSendButton" preserve="all"/>
+<type fullname="scrSmallMail" preserve="all"/>
+<type fullname="scrSpaceValues" preserve="all"/>
+<type fullname="scrStartBar" preserve="all"/>
+<type fullname="scrStats" preserve="all"/>
+<type fullname="scrTextDisplay" preserve="all"/>
+<type fullname="scrTextFile" preserve="all"/>
+<type fullname="scrTextWindow" preserve="all"/>
+<type fullname="scrViewButton" preserve="all"/>
+<type fullname="scrWindowMovement" preserve="all"/>
+<type fullname="scrWorkTime" preserve="all"/>
+</assembly>
+</linker>
